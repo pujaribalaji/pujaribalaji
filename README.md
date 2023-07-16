@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujari Balaji</h1>
-<h3 align="center">A passionate Web developer and cyber Analyst from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN full stack development,python with machine learning,Cybersecurity**
+- 🌱 I’m currently learning **MERN full stack development,python with machine learning**
 
 - 💬 Ask me about **python,kali-linux,Web development**
 
