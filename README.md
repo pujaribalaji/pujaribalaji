@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN full stack development,python with machine learning**
 
-- 💬 Ask me about **python,kali-linux,Web development**
+- 💬 Ask me about **python,Web development**
 
 - 📫 How to reach me **pujaribalaji152@gmail.com**
 
